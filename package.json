@@ -4,6 +4,11 @@
   "version": "0.0.0",
   "proxy": "http://localhost:3333",
   "dependencies": {
+    "@apollo/react-hooks": "3.1.5",
+    "@kisskissbankbank/kitten": "2.78.0",
+    "apollo-boost": "0.4.9",
+    "graphql": "14.7.0",
+    "graphql-tag": "2.10.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
