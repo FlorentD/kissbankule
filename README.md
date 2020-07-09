@@ -1,2 +1,0 @@
-# kissbankule
-Begin app
